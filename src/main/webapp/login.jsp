@@ -60,11 +60,11 @@
 						<td class="field">登录密码：</td>
 						<td><input class="text" type="password" id="passWord" name="passWord" onfocus="FocusItem(this)" onblur="CheckItem(this);" /><span></span></td>
 					</tr>
-					<tr>
+				<%--	<tr>
 						<td class="field">验证码：</td>
 						<td><input class="text verycode" type="text" name="veryCode" onfocus="FocusItem(this)" onblur="CheckItem(this);" /><img id="veryCode" src="" /><span></span></td>
 					</tr>
-					<tr>
+					<tr>--%>
 						<td></td>
 						<td><label class="ui-green"><input type="submit" name="submit" value="立即登录" /></label></td>
 					</tr>
@@ -75,7 +75,7 @@
 	<div class="clear"></div>
 </div>
 <div id="footer">
-	Copyright &copy; 2010 北大青鸟 All Rights Reserved. 京ICP证1000001号
+	Copyright &copy; 2018 云和数据 All Rights Reserved. 京ICP证1000001号
 </div>
 </body>
 </html>

@@ -65,7 +65,7 @@
 	</div>
 </div>
 <div id="footer">
-	Copyright &copy; 2010 北大青鸟 All Rights Reserved. 京ICP证1000001号
+	Copyright &copy; 2018 云和数据 All Rights Reserved. 京ICP证1000001号
 </div>
 </body>
 </html>
