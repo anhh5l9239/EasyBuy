@@ -3,40 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c236df04-0363-4f7a-88cd-486af0d65b86" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../EasyBuy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/java/cn/yunhe/dao/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/java/cn/yunhe/entity/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/java/cn/yunhe/listener/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/java/cn/yunhe/service/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/java/cn/yunhe/servlet/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/resources/mapper/ceshi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/guestbook.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/guestbook.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/guestbook-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/guestbook-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/guestbook.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/guestbook.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/manage-result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/manage-result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news-add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/news.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/order-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/order-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/order.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/order.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product-add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass-add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/productClass.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-modify.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-modify.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/news-view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/news-view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/reg-result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/reg-result.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping-result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping-result.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="product.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="product-add.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/product-add.jsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-modify.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user-modify.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-modify.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -121,20 +79,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1268">
+              <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="user.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
+            <state relative-caret-position="1558">
               <caret line="85" column="65" selection-start-line="85" selection-start-column="65" selection-end-line="85" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="order-modify.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/order-modify.jsp">
+      <file leaf-file-name="register.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="79" column="65" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="65" />
+            <state relative-caret-position="278">
+              <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -172,7 +139,6 @@
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-list.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/product-view.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/reg-result.jsp" />
-        <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping-result.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/guestbook.jsp" />
@@ -193,6 +159,7 @@
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-add.jsp" />
         <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-modify.jsp" />
+        <option value="$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp" />
       </list>
     </option>
   </component>
@@ -228,7 +195,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="464" />
     <option name="y" value="64" />
     <option name="width" value="1940" />
@@ -455,7 +422,7 @@
       <option name="presentableId" value="Default" />
       <updated>1532142223151</updated>
       <workItem from="1532142226224" duration="3792000" />
-      <workItem from="1532146074393" duration="1846000" />
+      <workItem from="1532146074393" duration="2714000" />
     </task>
     <task id="LOCAL-00001" summary="项目搭建第一次上传">
       <created>1532146369406</created>
@@ -471,11 +438,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532146839992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目搭建第二次上传">
+      <created>1532152788178</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532152788178</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5638000" />
+    <option name="totallyTimeSpent" value="6506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -659,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="85" column="65" selection-start-line="85" selection-start-column="65" selection-end-line="85" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/shopping.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -698,13 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="83" column="65" selection-start-line="83" selection-start-column="65" selection-end-line="83" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -792,13 +752,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="85" column="65" selection-start-line="85" selection-start-column="65" selection-end-line="85" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user-add.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -810,6 +763,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="112" column="65" selection-start-line="112" selection-start-column="65" selection-end-line="112" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1268">
+          <caret line="68" column="65" selection-start-line="68" selection-start-column="65" selection-end-line="68" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/manage/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="85" column="65" selection-start-line="85" selection-start-column="65" selection-end-line="85" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EasyBuy/src/main/webapp/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="73" column="29" selection-start-line="73" selection-start-column="29" selection-end-line="73" selection-end-column="29" />
         </state>
       </provider>
     </entry>
