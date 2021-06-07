@@ -7,6 +7,7 @@
 <title>易买网 - 首页</title>
 <link type="text/css" rel="stylesheet" href="css/style.css" />
 <script type="text/javascript" src="scripts/function.js"></script>
+	<script type="text/javascript"src="scripts/gVerify.js"></script>
 </head>
 <body>
 <div id="header" class="wrap">
@@ -63,14 +64,21 @@
 				<%--	<tr>
 						<td class="field">验证码：</td>
 						<td><input class="text verycode" type="text" name="veryCode" onfocus="FocusItem(this)" onblur="CheckItem(this);" /><img id="veryCode" src="" /><span></span></td>
+					</tr>--%>
+
+					<tr>
+						<td colspan="2" style="padding-left: 26%"><div id="v_container" style="width: 200px;height: 50px;"></div>
+							<input type="text" id="code_input" value="" placeholder="请输入验证码"/><button id="my_button">验证</button></td>
 					</tr>
-					<tr>--%>
-						<td></td>
-						<td><label class="ui-green"><input type="submit" name="submit" value="立即登录" /></label></td>
+
+					<tr>
+
+					    <td colspan="2" align="center"><label class="ui-green"><input type="submit" name="submit" value="立即登录" /></label></td>
 					</tr>
 				</table>
 			</form>
 		</div>
+
 	</div>
 	<div class="clear"></div>
 </div>
@@ -79,3 +87,14 @@
 </div>
 </body>
 </html>
+<script>
+    var verifyCode = new GVerify("v_container");
+    document.getElementById("my_button").onclick = function(){
+        var res = verifyCode.validate(document.getElementById("code_input").value);
+        if(res){
+            alert("验证正确");
+        }else{
+            alert("验证码错误");
+        }
+    }
+</script>
