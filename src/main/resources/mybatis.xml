@@ -18,7 +18,14 @@
         </environment>
     </environments>
     <mappers>
-        <mapper resource="mapper/News.xml"/>
+        <!--<mapper resource="mapper/CoomentMapper.xml"/>-->
+        <mapper resource="mapper/NewsMapper.xml"/>
+        <!--<mapper resource="mapper/OrderMapper.xml"/>
+        <mapper resource="mapper/OredrDetailMapper.xml"/>
+        <mapper resource="mapper/ProductCategoryMapper.xml"/>
+        <mapper resource="mapper/ProductMapper.xml"/>
+        <mapper resource="mapper/UserMapper.xml"/>-->
+
     </mappers>
 </configuration>
 
